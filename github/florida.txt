@@ -1,0 +1,56 @@
+The New York Times Upshot/Siena College poll of 867 likely voters in Florida was conducted from Sept. 10 to 14.
+
+The sample was selected from an L2 voter file stratified by age, region, race and a modeled turnout score. Voter records from each strata were selected in inverse proportion to the anticipated response rate for each strata, based on a June-July test.
+
+Interviews were conducted on both landline and cellphones and in English and Spanish. Over all, 59 percent of interviews were completed on cellphones, and 4 percent were completed in Spanish. Interviewers asked for the person listed on the voter file; no interviews were attempted with other individuals available at the number.
+
+The sample was balanced to match the demographic and political characteristics of active registered voters in the L2 voter file by age, race, gender, party registration, region and a modeled turnout score. The voter file data on respondents, not the self-reported information provided by respondents, was used for weighting.
+
+Likely voters were determined by averaging a self-reported likely-voter screen and a modeled turnout score.
+
+• Self-reported likely voters were those who indicated that they were "almost certain" or "very likely" to vote, or rated their chance of voting as a "9" or "10" on a scale from 1 to 10.
+
+• The turnout score was based on a model of turnout in the 2012 presidential election. The probabilties were applied to 2016.
+
+The probability that a registered voter would turn out was based on the average of whether they were a self-reported voter and their modeled turnout score.
+
+Nature of Sample	Active
+Voters (L2)	Unweighted
+Sample	Weighted
+Reg. Voters	Likely
+Voters
+Male	46	49	46	45
+Female	54	51	54	55
+18-29	15	18	16	12
+30-44	20	20	20	19
+45-64	35	36	35	37
+65+	29	27	29	32
+Reg. Dem.	38	41	38	38
+Reg. Rep.	36	32	36	39
+Reg. Non-Partisan/Other	26	27	26	22
+Reg. White	65	62	65	69
+Reg. Black	13	13	13	12
+Reg. Hispanic	15	17	15	14
+Reg. Other	6	8	6	6
+Bay Area	21	21	21	21
+Central	24	20	25	26
+North	20	22	19	18
+Southeast	27	27	27	26
+Southwest	8	9	8	9
+Turnout >85%	54	52	54	64
+Turnout 50–85%	27	34	27	25
+Turnout <50%	19	14	19	11
+Democratic ID	n.a.	36	34	35
+Republican ID	n.a.	27	30	33
+Independent ID	n.a.	32	31	30
+Clinton (4-way)	n.a.	42	41	41
+Trump (4-way)	n.a.	35	37	40
+Clinton (2-way)	n.a.	45	44	43
+Trump (2-way)	n.a.	38	40	43
+College+	n.a.	44	43	45
+No Degree	n.a.	56	57	55
+White, non-Hispanic	n.a.	60	63	66
+Black, non-Hispanic	n.a.	12	12	11
+Hispanic	n.a.	20	18	16
+Other, non-Hispanic	n.a.	8	7	7
+
