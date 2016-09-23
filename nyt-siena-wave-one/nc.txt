@@ -1,3 +1,32 @@
+
+q3 - two-way presidential
+q4 - three-way presidential
+q5 - senate
+q6 - governor
+partyid - self-reported partyid
+scale - chance of voting on scale 1-10
+likely - self-reported vote intention
+educ - self-reported education
+racer - self-reported race
+phonetyp - self-reported telephone usage
+age - voter file age
+his -  self-reported hispanic origin
+gender - voter file gender
+party2 - party registration
+county - county
+racest - voter file race 
+region - siena region category
+age4 - age 18-29, 30-44, 45-64, 65+
+turnout3 - turnout prob 0-50, 51-85, 85+
+partyw - party registration grouped
+regionw - siena region w
+rv.weight - weight for registered voters
+likelyyn - self-reported likely voters in scale/likely questions 
+turnout.score - modeled probability of turnout; the model was fit on the subset of the L2 voter file (for both active and inactive voters) that was registered before election day 2012. This probably slightly overstates turnout propensity, since the current file of pre-2012 registrants is probably ‘cleaner’ than the actual file in Nov. 2012 (i.e.: someone who had moved in Sept 2012 might have still been on the L2 file in Nov. 2012, but would no longer be part of the L2 file)
+lv.weight - likely voter weight — registration weight * probability of turnout (which is 50% self-reported and 50% from turnout score)
+***
+
+
 The New York Times Upshot/Siena College poll of 782 likely voters in North Carolina was conducted from Sept. 16 to 19.
 
 The sample was selected from an L2 voter file stratified by age, race and a modeled turnout score. Voter records from each strata were selected in inverse proportion to the anticipated response rate for each strata, based on a June-July test.
